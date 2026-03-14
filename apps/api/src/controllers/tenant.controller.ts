@@ -139,7 +139,7 @@ export const createTenantUser = catchAsync(async (req: Request, res: Response, n
     });
 
     if (existingUser) {
-        return next(new AppError('This callsign is already registered in the Airman network', 400));
+        return next(new AppError('This callsign is already registered in the AirStreak network', 400));
     }
 
     // 3. Hash
@@ -263,7 +263,7 @@ export const createInstructor = catchAsync(async (req: Request, res: Response, n
     });
 
     if (existingUser) {
-        return next(new AppError('This callsign is already registered in the Airman network', 400));
+        return next(new AppError('This callsign is already registered in the AirStreak network', 400));
     }
 
     const bcrypt = require('bcryptjs');

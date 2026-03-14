@@ -175,7 +175,7 @@ function TenantFormContent() {
               {isNew ? 'Academy Onboarding' : 'Modify Configuration'}
             </h1>
             <p className="text-slate-400 font-mono text-[10px] uppercase tracking-[0.2em]">
-              System: Airman Cockpit // Node ID: {id?.slice(0, 8) || 'NEW'}
+              System: AirStreak Cockpit // Node ID: {id?.slice(0, 8) || 'NEW'}
             </p>
           </div>
 

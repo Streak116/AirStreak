@@ -61,7 +61,7 @@ export default function Navbar() {
               <Plane className="w-5 h-5 text-white -rotate-45" />
             </div>
             <span className="font-bold tracking-tight text-white uppercase text-sm md:text-base">
-              Airman <span className="text-sky-400">Core</span>
+              AirStreak <span className="text-sky-400">Core</span>
             </span>
           </button>
           

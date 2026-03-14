@@ -61,7 +61,7 @@ export default function LoginPage() {
             <Plane className="w-10 h-10 text-sky-400 transform -rotate-45 group-hover:scale-110 transition-transform duration-500" />
           </div>
           <h1 className="text-4xl font-bold tracking-tight text-white mb-2">
-            AIRMAN <span className="text-sky-400">CORE</span>
+            AIRSTREAK <span className="text-sky-400">CORE</span>
           </h1>
           <div className="flex items-center justify-center gap-3 text-xs font-mono text-slate-400 tracking-widest uppercase opacity-75">
             {/* <span>System Online</span> */}

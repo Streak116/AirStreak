@@ -104,7 +104,7 @@ export default function InstructorsPage() {
           <div>
             <h1 className="text-4xl font-bold text-white mb-2 tracking-tight">Instructor Roster</h1>
             <p className="text-slate-400 font-mono text-[10px] uppercase tracking-[0.2em]">
-              System: Airman Cockpit // Clearance: Academy Admin
+              System: AirStreak Cockpit // Clearance: Academy Admin
             </p>
           </div>
           

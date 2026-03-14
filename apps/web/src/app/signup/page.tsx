@@ -85,7 +85,7 @@ export default function SignupPage() {
             <br /><br />
             <span className="text-sky-400 font-bold uppercase tracking-widest">Status: Pending Approval</span>
             <br />
-            Access to the Airman Core will be granted once your instructor verifies your roster status.
+            Access to the AirStreak Core will be granted once your instructor verifies your roster status.
           </p>
           <button
             onClick={() => router.push('/login')}

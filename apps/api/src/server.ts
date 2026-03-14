@@ -41,7 +41,7 @@ app.use('/api/v1/bookings', bookingRouter);
 app.use('/api/v1/escalations', escalationRouter);
 
 app.get('/', (req, res) => {
-    res.json({ message: 'Airman API is running!' });
+    res.json({ message: 'AirStreak API is running!' });
 });
 
 // 404 handler
